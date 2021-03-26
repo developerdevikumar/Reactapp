@@ -1,0 +1,37 @@
+.red-background-with-white {
+    background-color: red;
+    color: white;
+}
+.green-background{
+    background-color: green;
+    color: #000;
+}
+.nav-item-active {
+    color: #000;
+    border-bottom: 5px solid #09F;
+    border-left: none;
+}
+.pink-background{
+    background-color: rgb(192, 198, 255);
+    color: grey;
+}
+.yellow-background{
+    background-color: yellow;
+    color: steelblue;
+}
+.tm-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.tm-media-img {
+    margin-right: 20px;
+    width: 55%;
+    max-width: 300px;
+}

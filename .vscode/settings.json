@@ -1,0 +1,8 @@
+{
+    "editor.codeLens": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.suggest.showColors": false,
+    "editor.suggest.showCustomcolors": false,
+    "workbench.colorTheme": "Visual Studio Dark"
+}
